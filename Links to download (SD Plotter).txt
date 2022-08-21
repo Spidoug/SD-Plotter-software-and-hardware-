@@ -13,5 +13,4 @@ Link to download firmware for Arduino SD Plotter controller:
 
 https://mega.nz/file/CbRxgQYa#zTNliuZxndRg5ZJ_YdNDbx9pt17fkxb26cIdQTgfTgQ
 
-
-
+//////////////////////////////////////////////////////////////////////////
