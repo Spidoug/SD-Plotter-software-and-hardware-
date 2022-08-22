@@ -1,4 +1,6 @@
-### I produce various content on the internet. 👋
+### This project is part of my graduation project. The SD plotter system is a set of software plus hardware for acquiring signals and controlling transducers for a pilot plant.. 👋
+
+### Thanks for all.
 
 <!--
 **Spidoug/Spidoug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
