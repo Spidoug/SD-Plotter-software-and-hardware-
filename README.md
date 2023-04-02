@@ -1,4 +1,8 @@
-### This project is part of my graduation project. The SD plotter system is a set of software plus hardware for acquiring signals and controlling transducers for a pilot plant.. 👋
+### The software was developed for industrial automation, focusing on the management of a pilot plant for the chemical industry, but as the probe inputs are renameable and the parameters can be changed, there are countless possibilities for use. The system consists of acquiring data from an Arduino and the possibility of recording them in .TXT or .CSV files. can acquire signals from analog ports, interrupt port for speed counting if an encoder is inserted, control digital ports and other things. 
+
+The available firmware is for recording on an Arduino Uno.
+
+When starting the software, the Login and Password will be required, in the manual there is this information. Enter each information in the corresponding field and press enter, at the end, click on “OK”. 👋
 
 Software and operating platform developed for acquisition, control, and management of data obtained by sensors connected by arduino: https://archive.org/details/SDPLOTTER
 
