@@ -2,10 +2,6 @@
 
 Software and operating platform developed for acquisition, control, and management of data obtained by sensors connected by arduino: https://archive.org/details/SDPLOTTER
 
-The password for unzipping the files:  @SD79.
-
-The password for administrative use of the program:  All5@fe4u
-
 Link to description of project development monograph. (PT-BR): https://doi.org/10.29327/41136802
 
 ### Thanks for all.
