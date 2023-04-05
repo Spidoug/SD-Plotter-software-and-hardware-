@@ -2,8 +2,6 @@
 
 The available firmware is for recording on an Arduino Uno.
 
-When starting the software, the Login and Password will be required, in the manual there is this information. Enter each information in the corresponding field and press enter, at the end, click on “OK”. 👋
-
 Software and operating platform developed for acquisition, control, and management of data obtained by sensors connected by arduino: https://archive.org/details/SDPLOTTER
 
 Link to description of project development monograph. (PT-BR): https://doi.org/10.29327/41136802
